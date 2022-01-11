@@ -1,1 +1,1 @@
-echo 'tolles script'
+echo 'nicht tolles script'
