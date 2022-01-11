@@ -1,1 +1,1 @@
-echo 'tolles script'
+echo 'ganz tolles script'
